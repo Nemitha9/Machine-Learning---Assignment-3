@@ -230,8 +230,6 @@ print('accuracy is',accuracy_score(Y_val, y_pred))
 #svm is more expensive then navie bayes.
 
 
-# In[ ]:
-
 
 
 
